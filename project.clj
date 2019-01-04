@@ -1,5 +1,5 @@
 (defproject cljgossip/wsclient "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "A default websocket client for cljgossip"
   :url "https://github.com/kbsant/cljgossip-wsclient"
   :dependencies
   [[org.clojure/clojure "1.10.0"]
